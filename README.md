@@ -1,4 +1,4 @@
-# Landing Page Básica
+# Site Básico
 
 ## Página criada com HTML e CSS a página está responsiva
 OBS: Durante o desenvolvimento desse projeto, usei todo o conhecimento que adquiri no curso da Origamid, a página em si é um desafio do curso.
